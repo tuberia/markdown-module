@@ -23,7 +23,7 @@
   "license": "MIT",
   "homepage": "https://bitbucket.org/tuberia/markdown-module#readme",
   "devDependencies": {
-    "babel": "^5.8.25",
+    "babel": "^5.8.23",
     "babel-core": "^5.8.25",
     "babel-plugin-rewire": "^0.1.22",
     "jasmine": "^2.3.2",
