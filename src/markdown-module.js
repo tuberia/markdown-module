@@ -13,6 +13,7 @@ export default class MarkdownModule {
     this.opts.highlight = function (code) {
       return highlightjs.highlightAuto(code).value;
     }
+    return this;
   }
 
   execute(docs, ctx) {

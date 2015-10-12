@@ -1,6 +1,6 @@
 {
   "name": "tuberia-markdown-module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts markdown in document content into HTML as part of a Tuberia pipeline.",
   "main": "lib/index.js",
   "scripts": {
